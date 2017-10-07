@@ -1,6 +1,6 @@
 # telegram-stalker
 
-Simple python 3 script to log online/offline statuses, as well as counts of messages exchanged between parties since last status change. I have created it mostly as workaround for annoying telegram-cli message timestamp bug in telegram-cli ([#614](https://github.com/vysheng/tg/issues/614))
+Simple python 3 script to log online/offline statuses, as well as counts of messages exchanged between parties since last status change, without you being seen online. I have created it mostly as workaround for annoying telegram-cli message timestamp bug in telegram-cli ([#614](https://github.com/vysheng/tg/issues/614))
 
 Here is it in action:
 
